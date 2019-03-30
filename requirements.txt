@@ -1,0 +1,1 @@
+gmusicapi~=12.0
